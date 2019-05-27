@@ -15,3 +15,10 @@ Clone the repository and navigate to the downloaded folder.
 		cd udacity_face_generation_gan
 	``` 
 
+# Contributing
+
+Any bug fixes, pull request, and suggestions are welcome!
+
+# License 
+
+[MIT](https://github.com/marshall7m/udacity_face_generation_gan/blob/master/LICENSE)
