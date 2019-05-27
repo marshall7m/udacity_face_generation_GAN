@@ -11,7 +11,7 @@ This project involved creating a trained DCGAN (Deep Convolutional Generative Ad
 Clone the repository and navigate to the downloaded folder.
 	
 	```	
-		git clone hhttps://github.com/marshall7m/udacity_face_generation_gan.git
+		git clone https://github.com/marshall7m/udacity_face_generation_gan.git
 		cd udacity_face_generation_gan
 	``` 
 
